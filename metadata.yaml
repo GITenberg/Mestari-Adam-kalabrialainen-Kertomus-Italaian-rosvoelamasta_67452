@@ -1,0 +1,46 @@
+_repo: Mestari-Adam-kalabrialainen-Kertomus-Italaian-rosvoelamasta_67452
+_version: 0.0.1
+alternative_title: Maître Adam le Calabrais. Finnish
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Joel_Lehtonen
+    - https://en.wikipedia.org/wiki/Joel_Lehtonen
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - père, Alexandre Dumas
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2022-02-20'
+identifiers:
+  gutenberg: '67452'
+language: fi
+pgterms:marc905: 20220218005837dumas
+pgterms:marc906: '1916'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1916,reprint 1940.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Calabria (Italy) -- Fiction'
+- GITenberg
+title: 'Mestari Adam kalabrialainen: Kertomus Italaian rosvoelämästä'
+url: http://www.gutenberg.org/ebooks/67452
