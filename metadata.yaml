@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://fi.wikipedia.org/wiki/Joel_Lehtonen
     - https://en.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -26,6 +29,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Alexandre_Dumas
     - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67452#Mestari-Adam-kalabrialainen-Kertomus-Italaian-rosvoelamasta
 gutenberg_issued: '2022-02-20'
 identifiers:
   gutenberg: '67452'
